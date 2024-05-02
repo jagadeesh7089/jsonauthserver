@@ -1,0 +1,60 @@
+{
+    "users": [
+      {
+        "username": "admin",
+        "password": 123,
+        "role":"admin",
+        "id": 1
+      },
+      {
+        "username": "sonu",
+        "password": "123",
+        "role":"manager",
+        "id": 2
+      },
+      {
+        "username": "ramu",
+        "password": "123",
+        "role":"agent",
+        "id": 4
+      },
+      {
+        "username": "nani",
+        "password": "123",
+        "role":"customer",
+        "id": 4
+      }
+    ],
+    "posts": [
+      {
+        "views": 4949,
+        "id": "1",
+        "title": "redux toolkit is great"
+      },
+      {
+        "id": "c65f",
+        "views": 10984839,
+        "title": "React best training in Hyderabad"
+      },
+      {
+        "id": "d340",
+        "views": "43747",
+        "title": "React works on Mobile with React Native"
+      }
+    ],
+    "comments": [
+      {
+        "id": "1",
+        "text": "a comment about post 1",
+        "postId": "1"
+      },
+      {
+        "id": "2",
+        "text": "another comment about post 1",
+        "postId": "1"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
