@@ -1,4 +1,65 @@
 {
+    "intrestrates":[
+      {
+        "timetype":"months",
+        "timevalue":3,
+        "rateofinterest":6
+      },
+      {
+        "timetype":"months",
+        "timevalue":6,
+        "rateofinterest":9
+      },
+      {
+        "timetype":"months",
+        "timevalue":12,
+        "rateofinterest":10
+      },
+      {
+        "timetype":"months",
+        "timevalue":24,
+        "rateofinterest":12
+      },
+      {
+        "timetype":"months",
+        "timevalue":36,
+        "rateofinterest":14
+      },
+      {
+        "timetype":"months",
+        "timevalue":42,
+        "rateofinterest":14.5
+      }
+    ],
+    "loans":[
+      {
+        "typeofloan":"vehecile loan",
+        "loanitem":"hundai i20",
+        "product cost":500000,
+        "tenure":"",
+        "tenuretype":"months",
+        "rateofinterest":0,
+        "downpayment":0,
+        "status":[
+          {
+            "code":"applied",
+            "timestamp":"3/5/2024 8:20am ist"
+          },
+          {
+            "code":"approve",
+            "timestamp":"3/5/2024 10:20am ist"
+          },
+          {
+            "code":"downpayment",
+            "timestamp":"4/5/2024 1:20pm ist"
+          },
+          {
+            "code":"disbursed",
+            "timestamp":"4/5/2024 3:20pm ist"
+          }
+        ]
+      }
+    ],
     "users": [
       {
         "username": "admin",
