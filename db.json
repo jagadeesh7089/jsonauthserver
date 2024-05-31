@@ -39,9 +39,10 @@
   ],
   "loans": [
     {
-      "customerMobile": 1122,
+      "customerMobile":8868688588,
+      "email":"vishnu@gmail.com",
       "typeofloan": "home loan",
-      "loanitem": "skjdhf",
+      "loanitem": "2bhk-villa",
       "productcost": "3000000",
       "intrest": {
         "tenuretype": "months",
@@ -122,9 +123,10 @@
     },
     {
       "typeofloan": "vehecile loan",
+      "email":"prasad45@gmail.com",
       "loanitem": "i20 sport",
       "productcost": "1300000",
-      "customerMobile": 1133,
+      "customerMobile":9987654326,
       "intrest": {
         "tenuretype": "months",
         "tenure": 42,
@@ -146,6 +148,26 @@
         }
       ],
       "id": 2
+    },
+    {
+      "customerMobile": 9542461223,
+      "email": "jagadeeshk775@gmail.com",
+      "typeofloan": "home loan",
+      "loanitem": "2bhk-villa",
+      "productcost": "10000000",
+      "intrest": {
+        "tenuretype": "months",
+        "tenure": 24,
+        "rateofinterest": 12
+      },
+      "downpayment": "1000000",
+      "status": [
+        {
+          "code": "applied",
+          "timestamp": 1717133436209
+        }
+      ],
+      "id":3
     }
   ],
   "users": [
